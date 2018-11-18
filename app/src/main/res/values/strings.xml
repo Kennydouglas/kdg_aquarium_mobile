@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">KDG Aquarium</string>
+    <string name="title_activity_temp">TempActivity</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="aquarium">aquarium</string>
+    <string name="kdg">KDG</string>
+    <string name="setar_ilumina_o">Setar Iluminação</string>
+    <string name="acionamento">Acionamento</string>
+    <string name="inativa_o">Inativação</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="aquarium">aquarium</string>
+    <string name="kdg">KDG</string>
+    <string name="quantidade_de_refei_es">Quantidade de Refeições</string>
+    <string name="_0">0</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="todo">TODO</string>
+    <string name="aquarium">aquarium</string>
+    <string name="kdg">KDG</string>
+    <string name="_20_5">20.5</string>
+    <string name="c">ºC</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="todo">TODO</string>
+</resources>

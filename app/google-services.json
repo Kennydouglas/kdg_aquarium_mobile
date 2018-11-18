@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "26913047057",
+    "firebase_url": "https://nodemcu-gremio.firebaseio.com",
+    "project_id": "nodemcu-gremio",
+    "storage_bucket": "nodemcu-gremio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26913047057:android:f9d9a10ec483c8ca",
+        "android_client_info": {
+          "package_name": "com.example.kenny.kdg_aquarium"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26913047057-98h1dhtiok6r6pj41mehiqolam3vectu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kenny.kdg_aquarium",
+            "certificate_hash": "9cfd7a6d453ef92fd7650eae0324b9679166057d"
+          }
+        },
+        {
+          "client_id": "26913047057-kur72jvnudlngkrg1jru6mhpb749d6uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOh80GOYLFfncLtXH7_ar7xIHUldw6SEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26913047057-kur72jvnudlngkrg1jru6mhpb749d6uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
